@@ -1,0 +1,900 @@
+ABN Airport Beacon
+ABV Above
+ACC Area Control Center (ARTCC)
+ACCUM Accumulate
+ACFT Aircraft
+ACR Air Carrier
+ACT Active
+ADJ Adjacent
+ADZD Advised
+AFD Airport Facility Directory
+AGL Above ground level
+ALS Approach Light System
+ALT Altitude
+ALTM Altimeter
+ALTN Alternate
+ALTNLY Alternately
+ALSTG Altimeter Setting
+AMDT Amendment
+AMGR Airport Manager
+AMOS Automatic Meteorological Observing System
+AP Airport
+APCH Approach
+AP LGT Airport Lights
+APP Approach control
+ARFF Aircraft Rescue & Fire Fighting
+ARR Arrive, arrival
+ASOS Automated Surface Observing System
+ASPH Asphalt
+ATC Air Traffic Control
+ATCSCC Air Traffic Control System Command Center
+ATIS Automatic Terminal Information Service
+AUTH Authority
+AUTOB Automatic Weather Reporting System
+AVBL Available
+AWOS Automatic Weather Observing/Reporting System
+AWY Airway
+AZM Azimuth
+BA FAIR Braking action fair
+BA NIL Braking action nil
+BA POOR Braking action poor
+BC Back Course
+BCN Beacon
+BERM Snowbank(s) Containing Earth/Gravel
+BLW Below
+BND Bound
+BRG Bearing
+BYD Beyond
+CAAS Class A Airspace
+CAT Category
+CBAS Class B Airspace
+CBSA Class B Surface Area
+CCAS Class C Airspace
+CCLKWS Counterclockwise
+CCSA Class C Surface Area
+CD Clearance Delivery
+CDAS Class D Airspace
+CDSA Class D Surface Area
+CEAS Class E Airspace
+CESA Class E Surface Area
+CFR Code of Federal Regulations
+CGAS Class G Airspace
+CHG Change
+CIG Ceiling
+CK Check
+CL Centerline
+CLKWS Clockwise
+CLR Clearance, clear(s), cleared to
+CLSD Closed
+CMB Climb
+CMSND Commissioned
+CNL Cancel
+COM Communications
+CONC Concrete
+CPD Coupled
+CRS Course
+CTC Contact
+CTL Control
+DALGT Daylight
+DCMSND Decommissioned
+
+DME Distance Measuring Equipment
+DMSTN Demonstration
+DP Dew Point Temperature
+DRFT Snowbank(s) Caused By Wind Action
+DSPLCD Displaced
+E East
+EB Eastbound
+EFAS En Route Flight Advisory Service
+ELEV Elevation
+ENG Engine
+ENRT En route
+ENTR Entire
+EXC Except
+FAC Facility or facilities
+FAF Final Approach fix
+FAN MKR Fan Marker
+FDC Flight Data Center
+FI/T Flight inspection temporary
+FI/P Flight inspection permanent
+FM From
+FREQ Frequency
+FNA Final approach
+FPM Feet per minute
+FREQ Frequency
+FRH Fly Runway Heading
+FRI Friday
+FRZN Frozen
+FSS Automated/Flight Service Station
+FT Foot, feet
+GC Ground Control
+GCA Ground Control Approach
+GOVT Government
+GP Glide Path
+GPS Global Positioning System
+GRVL Gravel
+HAA Height Above Airport
+HAT Height Above Touchdown
+HDG Heading
+HEL Helicopter
+HELI Heliport
+HIRL High Intensity Runway Lights
+HIWAS Hazardous Inflight Weather Advisory Service
+HLDG Holding
+HOL Holiday
+HP Holding Pattern
+Contraction Decode
+HR Hour
+IAF Initial approach fix
+IAP Instrument Approach Procedure
+INBD Inbound
+ID Identification
+IDENT Identify/Identifier/Identification
+IF Intermediate fix
+ILS Instrument Landing System
+IM Inner Marker
+IMC Instrument Meteorological Conditions
+IN Inch/Inches
+INDEFLY Indefinitely
+INFO Information
+INOP Inoperative
+INSTR Instrument
+INT Intersection
+INTL International
+INTST Intensity
+IR Ice On Runway(s)
+KT Knots
+L Left
+LAA Local Airport Advisory
+LAT Latitude
+LAWRS Limited Aviation Weather Reporting Station
+LB Pound/Pounds
+LC Local Control
+LOC Local/Locally/Location
+LCTD Located
+LDA Localizer Type Directional Aid
+LGT Light or lighting
+LGTD Lighted
+LIRL Low Intensity Runway Lights
+LLWAS Low Level Wind Shear Alert System
+LM Compass Locator at ILS Middle Marker
+LDG Landing
+LLZ Localizer
+LO Compass Locator at ILS Outer Marker
+LONG Longitude
+LRN Loran
+LSR Loose Snow on Runway(s)
+LT Left Turn
+MAG Magnetic
+MAINT Maintain, maintenance
+MALS Medium Intensity Approach Light System
+
+MALSF Medium Intensity Approach Light System with Sequenced Flashers
+MALSR Medium Intensity Approach Light System with Runway Alignment Indicator Lights
+MAPT Missed Approach Point
+MCA Minimum Crossing Altitude
+MDA Minimum Descent Altitude
+MEA Minimum Enroute Altitude
+MED Medium
+MIN Minute
+MIRL Medium Intensity Runway Lights
+MLS Microwave Landing System
+MM Middle Marker
+MNM Minimum
+MNT Monitor/Monitoring/Monitored
+MOC Minimum Obstruction Clearance
+MON Monday
+MRA Minimum reception altitude
+MSA Minimum Safe Altitude/Minimum Sector Altitude
+MSAW Minimum Safe Altitude Warning
+MSG Message
+MSL Mean Sea Level
+MU MU meters
+MUD Mud
+MUNI Municipal
+N North
+NA Not Authorized
+NAV Navigation
+NB Northbound
+NDB Nondirectional Radio Beacon
+NE Northeast
+NGT Night
+NM Nautical Mile(s)
+NMR Nautical Mile Radius
+NONSTD Nonstandard
+NOPT No Procedure Turn Required
+NR Number
+NTAP Notice To Airmen Publication
+NW Northwest
+OBSC Obscured
+OBST Obstruction
+OM Outer Marker
+OPR Operate
+OPS Operation
+ORIG Original
+OTS Out of Service
+OVR Over
+PAEW Personnel and Equipment Working
+PAPI Precision Approach Path Indicator
+PAR Precision Approach Radar
+PARL Parallel
+PAT Pattern
+PAX Passenger
+PCL Pilot Controlled Lighting
+PERM Permanent/Permanently
+PJE Parachute jumping exercise
+PLA Practice Low Approach
+PLW Plow/Plowed
+PN Prior Notice Required
+PPR Prior Permission Required
+PREV Previous
+PRN Psuedo random noise
+PROC Procedure
+PROP Propeller
+PSR Packed Snow on Runway(s)
+PTCHY Patchy
+PTN Procedure Turn
+PVT Private
+RAIL Runway Alignment Indicator Lights
+RAMOS Remote Automatic Meteorological Observing System
+RCAG Remote Communication Air/Ground Facility
+RCL Runway Centerline
+RCLL Runway Centerline Light System
+RCO Remote Communication Outlet
+REC Receive/Receiver
+RELCTD Relocated
+REIL Runway End Identifier Lights
+REP Report
+RLLS Runway Lead�in Lights System
+RMNDR Remainder
+RNAV Area Navigation
+RPLC Replace
+RQRD Required
+RRL Runway Remaining Lights
+RSR En Route Surveillance Radar
+RSVN Reservation
+RT Right Turn
+RTE Route
+RTR Remote Transmitter/Receiver
+RTS Return to Service
+RUF Rough
+RVR Runway Visual Range
+RVRM Runway Visual Range Midpoint
+RVRR Runway Visual Range Rollout
+RVRT Runway Visual Range Touchdown
+
+RWY Runway
+S South
+SA Sand, sanded
+SAT Saturday
+SAWR Supplementary Aviation Weather Reporting Station
+SB Southbound
+SDF Simplified Directional Facility
+SE Southeast
+SFL Sequence Flashing Lights
+SID Standard Instrument Departure
+SIMUL Simultaneous
+SIR Packed or Compacted Snow and Ice on Runway(s)
+SKED Scheduled
+SLR Slush on Runway(s)
+SN Snow
+SNBNK Snowbank(s) Caused by Plowing
+SNGL Single
+SPD Speed
+SSALF Simplified Short Approach Lighting System with Sequenced Flashers
+SSALR Simplified Short Approach Lighting System with Runway Alignment Indicator Lights
+SSALS Simplified Short Approach Lighting System
+SSR Secondary Surveillance Radar
+STA Straight in Approach
+STAR Standard Terminal Arrival
+SUN Sunday
+SVC Service
+SW Southwest
+SWEPT Swept or Broom/Broomed
+T Temperature
+TAA Terminal Arrival Area
+TACAN Tactical Air Navigational Aid
+TAR Terminal area surveillance radar
+TDZ Touchdown Zone
+TDZ LG Touchdown zone lights
+TEMPO Temporary
+TFC Traffic
+TFR Temporary Flight Restriction
+TGL Touch and Go Landings
+THN Thin
+THR Threshold
+THRU Through
+THU Thursday
+TIL Until
+TKOF Takeoff
+TM Traffic Management
+TMPA Traffic Management Program Alert
+TRML Terminal
+TRNG Training
+TRSN Transition
+TSNT Transient
+TUE Tuesday
+TWR Tower
+TWY Taxiway
+UFN Until further notice
+UNAVBL Unavailable
+UNLGTD Unlighted
+UNMKD Unmarked
+UNMNT Unmonitored
+UNREL Unreliable
+UNUSBL Unusable
+VASI Visual Approach Slope Indicator
+VDP Visual Descent Point
+VGSI Visual Glide Slope Indicator
+VIA By Way Of
+VICE Instead/Versus
+VIS Visibility
+VMC Visual Meteorological Conditions
+VOL Volume
+VOR VHF Omni�Directional Radio Range
+VORTAC VOR and TACAN (colocated)
+W West
+WB Westbound
+WED Wednesday
+WEF With effect from or effective from
+WI Within
+WIE With immediate effect or effective immediately
+WKDAYS Monday through Friday
+WKEND Saturday and Sunday
+WND Wind
+WPT Waypoint
+WSR Wet Snow on Runway(s)
+WTR Water on Runway(s)
+WX Weather
+
+
+A Absolute (temperature)
+A Alaskan Standard Time (time groups only)
+A Arctic (air mass)
+A01 Automated Observation without Precipitation Discriminator (rain/snow) (METAR)
+A02 Automated Observation with Precipitation Discriminator (rain/snow) (METAR)
+AAWF Auxiliary Aviation Weather Facility
+AC Altocumulus
+ACC Altocumulus Castellanus
+ACSL Standing Lenticular Altocumulus
+ACYC Anticyclonic
+ADRNDCK Adirondack
+ADV Advise
+ADVCTN Advection
+ADVY Advisory
+AFC Area Forecast Center
+AFDK After  Dark
+ALF Aloft
+ALGHNY Allegheny
+ALQDS All Quadrants
+ALSEC All Sectors
+ALTA Alberta
+ALUTN Aleutian
+ALWF Actual Wind Factor
+AM Ante  Meridiem
+AMD Amended Forecast (TAF)
+AMPLTD Amplitude
+AMS Air Mass
+AMS American Meteorological Society
+ANLYS Analysis
+APLCN Appalachian
+AS Altostratus
+ASOS Automated Surface Observing System
+ATLC Atlantic
+AURBO Aurora Borealis
+AWP Aviation Weather Processors
+B Beginning of Precipitation (time in minutes) (weather reports only)
+B Bering Standard Time (time groups only)
+BACLIN Baroclinic or Baroclinic Prognosis
+BATROP Barotropic or Barotropic Prognosis
+BC Patches (METAR)
+BC British Columbia
+BCFG Patchy Fog (METAR)
+BCH Beach
+BCKG Backing
+BDA Bermuda
+BECMG Becoming (expected between 2 digit beginning hour and 2 digit ending hour) (TAF)
+BFDK Before Dark
+BINOVC Breaks in Overcast
+BKN Broken
+BL Between Layers
+BL Blowing (METAR)
+BLD Build
+BLDUP Buildup
+BLKHLS Black Hills
+BLKT Blanket
+BLZD Blizzard
+BMS Basic Meteorological Services
+BNDRY Boundary
+BOVC Base of Overcast
+BR Mist (METAR)
+BRF Brief
+BRKHIC Breaks in Higher Overcast
+BRKSHR Berkshire
+BRM Barometer
+BTWN Between
+C Central Standard Time (time groups only)
+C Continental (air mass)
+CAN Canada
+CARIB Caribbean
+CASCDS Cascades
+CAVOK Cloud and Visibility OK (METAR)
+CAVU Clear or Scattered Clouds and Visibility Greater Than Ten Miles
+CAWS Common Aviation Weather Sub�system
+CB Cumulonimbus
+CBMAM Cumulonimbus Mamma
+CC Cirrocumulus
+CCLKWS Counterclockwise
+CCSL Standing Lenticular Cirrocumulus
+CDFNT Cold Front
+CFP Cold Front Passage
+CHARC Characteristic
+CHSPK Chesapeake
+CI Cirrus
+CIG Ceiling
+CLD Cloud
+CLR Clear at or below 12,000 feet (AWOS/ASOS report) (METAR)
+CLRS Clear and Smooth
+CNCL Cancel
+CNDN Canadian
+CNVTV Convective
+CONFDC Confidence
+
+
+CONTDVD Continental Divide
+CONTRAILS Condensation Trails
+COR Correction to the observation (METAR)
+CS Cirrostratus
+CST Coast
+CTGY Category
+CTSKLS Catskills
+CU Cumulus
+CUFRA Cumulus Fractus
+CYC Cyclonic
+CYCLGN Cyclogenesis
+DABRK Daybreak
+DCAVU Clear or Scattered Clouds and Visibility Greater than Ten, Remainder of Report Missing (weather reports only)
+DKTS Dakotas
+DMSH Diminish
+DNS Dense
+DNSLP Downslope
+DNSTRM Downstream
+DP Deep
+DPNG Deepening
+DPTH Depth
+DR Low Drifting (METAR)
+DRFT Drift
+DS Dust Storm (METAR)
+DSIPT Dissipate
+DTLN International Dateline
+DTRT Deteriorate
+DU Widespread Dust (METAR)
+DVV Downward Vertical Velocity
+DWNDFTS Downdrafts
+DWPNT Dew Point
+DZ Drizzle (METAR)
+E Eastern Standard Time (time groups only)
+E Ending of Precipitation (time in minutes) (weather reports only)
+E Equatorial (air mass)
+E Estimated (weather reports only)
+ELNGT Elongate
+EMBDD Embedded
+EMSU Environment Meteorological Support Unit
+ENERN East northeastern (weather reports only)
+ENEWD East northeastward (weather reports only)
+EOF Expected Operations Forecast
+ESERN East�southeastern (weather reports only)
+ESEWD East�southeastward (weather reports only)
+EXTRAP Extrapolate
+EXTRM Extreme
+FA Area Forecast
+FAH Fahrenheit
+FEW 1 or 2 octas (eighths) cloud coverage (METAR)
+FC Funnel Cloud (METAR)
++FC Tornado/ Water Spout (METAR)
+FG Fog (METAR)
+FIBI Filed but Impractical to Transmit
+FILG Filling
+FINO Weather Report Will Not Be Filed for Transmission
+FL Flash Advisory
+FLDST Flood Stage
+FLG Falling
+FLRY Flurry
+FLWIS Flood Warning Issued
+FM From (4 digit beginning time in hours and minutes) (TAF)
+FNT Front
+FNTGNS Frontogenesis
+FNTLYS Frontolysis
+FORNN Forenoon
+FRMG Forming
+FROPA Frontal Passage
+FROSFC Frontal Surface
+FRST Frost
+FRWF Forecast Wind Factor
+FRZ Freeze
+FRZLVL Freezing Level
+FRZN Frozen
+FT Terminal Forecast
+FU Smoke (METAR)
+FULYR Smoke Layer Aloft
+FUOCTY Smoke Over City
+FWC Fleet Weather Central
+FZ Supercooled/freezing (METAR)
+G Gusts Reaching (knots) (weather reports only)
+GLFALSK Gulf of Alaska
+GLFCAL Gulf of California
+GLFMEX Gulf of Mexico
+GLFSTLAWR Gulf of St. Lawrence
+GR Hail (METAR)
+GRAD Gradient
+GRBNKS Grand Banks
+GRDL Gradual
+GRTLKS Great Lakes
+GS Small Hail/Snow Pellets (METAR)
+GSTS Gusts
+GSTY Gusty
+HCVIS High Clouds Visible
+
+HDFRZ Hard Freeze
+HDSVLY Hudson Valley
+HI Hi
+HIEAT Highest Temperature Equaled for All Time
+HIEFM Highest Temperature Equaled for The Month
+HIESE Highest Temperature Equaled So Early
+HIESL Highest Temperature Equaled So Late
+HIFOR High Level Forecast
+HITMP Highest Temperature
+HIXAT Highest Temperature Exceeded for All Time
+HIXFM Highest Temperature Exceeded for The Month
+HIXSE Highest Temperature Exceeded So Early
+HIXSL Highest Temperature Exceeded So Late
+HLSTO Hailstones
+HLTP Hilltop
+HLYR Haze Layer Aloft
+HURCN Hurricane
+HUREP Hurricane Report
+HX High Index
+HZ Haze (METAR)
+IC Ice Crystals (METAR)
+ICG Icing
+ICGIC Icing in Clouds
+ICGICIP Icing in Clouds and Precipitation
+ICGIP Icing in Precipitation
+IMDT Immediate
+INLD Inland
+INSTBY Instability
+INTR Interior
+INTRMTRGN Inter�Mountain Region
+INTS Intense
+INTSFY Intensify
+INVRN Inversion
+IOVC In Overcast
+IR Ice on Runway
+JTSTR Jet Stream
+K Cold (air mass)
+KFRST Killing Frost
+LABRDR Labrador
+LCTMP Little Change in Temperature
+LDG Landing
+LFT Lift
+LGRNG Long Range
+LIFR Low IFR (weather reports only)
+LK Lake
+LOEAT Lowest Temperature Equaled for All Time
+LOEFM Lowest Temperature Equaled for The Month
+LOESE Lowest Temperature Equaled So Early
+LOESL Lowest Temperature Equaled So Late
+LOTMP Lowest Temperature
+LOXAT Lowest Temperature Exceeded for All Time
+LOXFM Lowest Temperature Exceeded for The Month
+LOXSE Lowest Temperature Exceeded So Early
+LOXSL Lowest Temperature Exceeded So Late
+LSR Loose Snow on Runway
+LTGCC Lightning Cloud-to-Cloud
+LTGCCCG Lightning Cloud-to-Cloud, Cloud-to-Ground
+LTGCG Lightning Cloud-to-Ground
+LTGCW Lightning Cloud-to-Water
+LTGIC Lightning in Clouds
+LTLCG Little Change
+LTNG Lightning
+LX Low Index
+LYR Layer or Layered or Layers
+M Maritime (air mass)
+M In temperature field means ”minus” or below zero (METAR)
+M In RVR Field, indicates visibility less than lowest reportable sensor value (e.g. M0600FT)
+M Missing (weather reports only)
+M Mountain Standard Time (time groups only)
+MA Map Analysis
+MAN Manitoba
+MEGG Merging
+MEX Mexico
+MHKVLY Mohawk Valley
+MI Shallow (METAR)
+MIDN Midnight
+MIFG Patches of Shallow Fog Not Deeper Than Two Meters (METAR)
+MLTLVL Melting Level
+MMO Main Meteorological Office
+MNLD Mainland
+MOGR Moderate or Greater
+MONTR Monitor
+MOV Move
+MRGL Marginal
+MRNG Morning
+MRTM Maritime
+MS Minus
+MSTLY Mostly
+MSTR Moisture
+MTN Mountain
+MVFR Marginal VFR
+MXD Mixed
+
+NB New Brunswick
+NCWX No Change in Weather
+NELY Northeasterly (weather reports only)
+NERN Northeastern
+NEW ENG New England
+NFLD Newfoundland
+NGT Night
+NL No Layers
+NMBR Number
+NNERN North northeastern (weather reports only)
+NNEWD North northeastward (weather reports only)
+NNWRN North northwestern (weather reports only)
+NNWWD Northwestward (weather reports only)
+NO Not available (e.g. SLPNO, RVRNO)
+NORPI No Pilot Balloon Observation Will Be Filed Next Collection Unless Weather Changes Significantly
+NPRS Nonpersistent
+NS Nimbostratus
+NS Nova Scotia
+NSCSWD No Small Craft or Storm Warning are Being Displayed
+NSW No Significant Weather (METAR)
+NVA Negative Vorticity Advection
+NWLY Northwesterly (weather reports only)
+NWRN Northwestern (weather reports only)
+OBS Observation
+OBSC Obscure
+OCFNT Occluded Front
+OCLD Occlude
+OCLN Occlusion
+OFP Occluded Frontal Passage
+OFSHR Offshore
+OMTNS Over Mountains
+ONSHR On Shore
+ONT Ontario
+ORGPHC Orographic
+OSV Ocean Station Vessel
+OTAS On Top and Smooth
+OTLK Outlook
+OVC Overcast
+P Pacific Standard Time (time group only)
+P Polar (air mass)
+P In RVR field, indicates visibility greater than highest reportable sensor value (e.g. P6000FT)
+P6SM Visibility greater than 6 statute miles (TAF only)
+PAC Pacific
+PBL Probable
+PCPN Precipitation
+PDMT Predominant
+PDMT Predominate
+PDW Priority Delayed Weather
+PL Ice Pellets (METAR)
+PEN Peninsula
+PGTSND Puget Sound
+PIBAL Pilot Balloon Observation
+PISE No Pilot Balloon Observation Due To Unfavorable Sea Conditions
+PISO No Pilot Balloon Observation Due To Snow
+PIWI No Pilot Balloon Observation Due To High, or Gusty, Surface Wind
+PLW Plow (snow)
+PNHDL Panhandle
+PO Dust/Sand Whirls (METAR)
+PPINA Radar Weather Report Not Available (or omitted for a reason different than those otherwise stated)
+PPINE Radar Weather Report No Echoes Observed
+PPINO Radar Weather Report Equipment Inoperative Due To Breakdown
+PPIOK Radar Weather Report Equipment Operation Resumed
+PPIOM Radar Weather Report Equipment Inoperative Due To Maintenance
+PR Partial (METAR)
+PRBLTY Probability
+PRESFR Pressure Falling Rapidly
+PRESRR Pressure Rising Rapidly
+PRJMP Pressure Jump (weather reports only)
+PROB40 Probability 40 percent (METAR)
+PROG Prognosis or Prognostic
+PRSNT Present
+PS Plus
+PSG Passage
+PSG Passing
+PTCHY Patchy
+PTLY Partly
+PVA Positive Vorticity Advection
+PY Spray (METAR)
+QSTNRY Quasi-stationary 
+QUE Quebec
+R Runway (used in RVR measurement)
+RA Rain (METAR)
+RABA No RAWIN Obs., No Balloons Available
+RABAL Radiosonde Balloon Wind Data
+RABAR Radiosonde Balloon Release
+RACO No RAWIN Obs., Communications Out
+RADAT Radiosonde Observation Data
+RADNO Report Missing Account Radio Failure
+RAFI Radiosonde Observation Not Filed
+RAFRZ Radiosonde Observation Freezing Levels
+RAHE No RAWIN Obs., No Gas Available
+
+RAICG Radiosonde Observation Icing at
+RAOB Radiosonde Observation
+RAREP Radar Weather Report
+RAVU Radiosonde Analysis and Verification Unit
+RAWE No RAWIN obs., Unfavorable Weather
+RAWI No RAWIN Obs., High and Gusty Winds
+RAWIN Upper Winds Obs. (by radio methods)
+RCD Radar Cloud Detection Report
+RCDNA Radar Cloud Detection Report Not Available
+RCDNE Radar Cloud Detection Report No Echoes Observed
+RCDNO Radar Cloud Detector Inoperative Due to
+Breakdown Until RCDOM
+Radar Cloud Detector Inoperative Due to Maintenance Until
+RCKY Rockies (mountains)
+RDG Ridge
+RDWND Radar Dome Wind
+RESTR Restrict
+RGD Ragged
+RH Relative Humidity
+RHINO Radar Echo Height Information Not Available
+RHINO Radar Range Height Indicator Not Operating on Scan
+RIOGD Rio Grande
+RMK Remark(s)
+RNFL Rainfall
+ROBEPS Radar Operating Below Prescribed Standard
+RPD Rapid
+RSG Rising
+RUF Rough
+RY/RWY Runway
+SA Sand (METAR)
+SASK Saskatchewan
+SBSD Subside
+SC Stratocumulus
+SCSL Standing Lenticular Stratocumulus
+SCT Scattered
+SELS Severe Local Storms
+SELY Southeasterly (weather reports only)
+SERN Southeastern (weather reports only)
+SFERICS Atmospherics
+SG Snow Grains (METAR)
+SGD Solar Geophysical Data
+SH Showers (METAR)
+SHFT Shift (weather reports only)
+SHLW Shallow
+SHRTLY Shortly
+SHWR Shower
+SIERNEV Sierra Nevada
+SIR Snow and Ice on Runway
+SKC Sky Clear (METAR)
+SLD Solid
+SLP Sea Level pressure (e.g. 1013.2 reported as 132)
+SLR Slush on Runway
+SLT Sleet
+SM Statute mile(s)
+SMK Smoke
+SMTH Smooth
+SN Snow (METAR)
+SNBNK Snowbank
+SNFLK Snowflake
+SNOINCR Snow Depth Increase in Past Hour
+SNW Snow
+SNWFL Snowfall
+SP Station Pressure
+SPECI Special Report (METAR)
+SPKL Sprinkle
+SPLNS South Plains
+SPRD Spread
+SQ Squall (METAR)
+SQAL Squall
+SQLN Squall Line
+SS Sandstorm (METAR)
+SSERN South-southeastern (weather reports only)
+SSEWD South-southeastward (weather reports only)
+SSWRN South-southwestern (weather reports only)
+SSWWD South-southwestward (weather reports only)
+ST Stratus
+STAGN Stagnation
+STFR Stratus Fractus
+STFRM Stratiform
+STG Strong
+STM Storm
+STNRY Stationary
+SWLG Swelling
+SWLY Southwesterly (weather reports only)
+SWRN Southwestern (weather reports only)
+SX Stability Index
+SXN Section
+SYNOP Synoptic
+SYNS Synopsis
+T Trace (weather reports only)
+T Tropical (air mass)
+TCU Towering Cumulus
+TEMPO Temporary changes expected (between 2 digit beginning hour and 2 digit ending hour) (TAF)
+THD Thunderhead (non METAR)
+THDR Thunder (non METAR)
+THK Thick
+THN Thin
+TKOF Takeoff
+TOP Cloud Top
+TOVC Top of Overcast
+
+TPG Topping
+TRIB Tributary
+TROF Trough
+TROP Tropopause
+TRPCD Tropical Continental (air mass)
+TRPCL Tropical
+TRPLYR Trapping Layer
+TS Thunderstorm (METAR)
+TSHWR Thundershower (non METAR)
+TSQLS Thundersqualls (non METAR)
+TSTM Thunderstorm (non METAR)
+TURBC Turbulence
+TURBT Turbulent
+TWRG Towering
+UAG Upper Atmosphere Geophysics
+UDDF Up and Down Drafts
+UNSBL Unseasonable
+UNSTBL Unstable
+UNSTDY Unsteady
+UNSTL Unsettle
+UP Unknown Precipitation (Automated Observations)
+UPDFTS Updrafts
+UPR Upper
+UPSLP Upslope
+UPSTRM Upstream
+UVV Upward Vertical Velocity
+UWNDS Upper Winds
+V Varies  (wind direction and RVR)
+V Variable (weather reports only)
+VA Volcanic Ash (METAR)
+VC Vicinity
+VLCTY Velocity
+VLNT Violent
+VLY Valley
+VR Veer
+VRB Variable wind direction when speed is less than or equal to 6 knots VRISL Vancouver Island, BC
+VRT MOTN Vertical Motion
+VSBY Visibility
+VSBYDR Visibility Decreasing Rapidly
+VSBYIR Visibility Increasing Rapidly
+VV Vertical Visibility (Indefinite Ceiling) (METAR)
+W Warm (air mass)
+WA AIRMET
+WDC-1 World Data Centers in Western Europe
+WDC-2 World Data Centers Throughout Rest of World
+WDLY Widely
+WDSPRD Widespread
+WEA Weather
+WFP Warm Front Passage
+WINT Winter
+WND Wind
+WNWRN West�northwestern (weather reports only)
+WNWWD West�northwestward (weather reports only)
+WPLTO Western Plateau
+WR Wet Runway
+WRM Warm
+WRMFNT Warm Front
+WRNG Warning
+WS Wind Shear (in TAFs, low level and not associated with convective activity)
+WS SIGMET
+WSHFT Wind Shift
+WSOM Weather Service Operations Manual
+WSR Wet Snow on Runway
+WSWRN West�southwestern (weather reports only)
+WSWWD West�southwestward (weather reports only)
+WTR Water
+WTSPT Waterspout
+WV Wave
+WW Severe Weather Forecast
+WXCON Weather Reconnaissance Flight Pilot Report
+XCP Except
+XPC Expect
+Y Yukon Standard Time (time groups only)
+YKN Yukon
+YLSTN Yellowstone
+ZI Zonal Index
+ZI Zone of Interior
