@@ -25,6 +25,8 @@ CREATE TABLE `notams` (
   `q_status` varchar(100) DEFAULT NULL,
   `entity_category` varchar(100) DEFAULT NULL,
   `status_category` varchar(100) DEFAULT NULL,
+  `isCoordinates` tinyint(1) DEFAULT NULL,
+  `hasAreaOfInfluence` tinyint(1) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
@@ -33,6 +35,7 @@ tam_id varchar(100),
 feedback_value FLOAT,
 alpha FLOAT
 )
+
 BEGIN
 UPDATE haro.notams
 SET priority = ( ( alpha * feedback_value ) + ( ( 1 - alpha ) * priority) )
