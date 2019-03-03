@@ -1,0 +1,126 @@
+id,name,city,country,iata,icao,latitude,longitude,altitude,timezone,dst,tz,type,source
+2994,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,AMD,VAAH,23.0771999359,72.63469696039999,189,5.5,N,Asia/Calcutta,airport,OurAirports
+2995,Akola Airport,Akola,India,AKD,VAAK,20.698999404907227,77.05860137939453,999,5.5,N,Asia/Calcutta,airport,OurAirports
+2996,Aurangabad Airport,Aurangabad,India,IXU,VAAU,19.862699508666992,75.39810180664062,1911,5.5,N,Asia/Calcutta,airport,OurAirports
+2997,Chhatrapati Shivaji International Airport,Mumbai,India,BOM,VABB,19.0886993408,72.8678970337,39,5.5,N,Asia/Calcutta,airport,OurAirports
+2998,Bilaspur Airport,Bilaspur,India,PAB,VABI,21.988399505615234,82.11100006103516,899,5.5,N,Asia/Calcutta,airport,OurAirports
+2999,Bhuj Airport,Bhuj,India,BHJ,VABJ,23.2877998352,69.6701965332,268,5.5,N,Asia/Calcutta,airport,OurAirports
+3000,Belgaum Airport,Belgaum,India,IXG,VABM,15.859299659700001,74.6183013916,2487,5.5,N,Asia/Calcutta,airport,OurAirports
+3001,Vadodara Airport,Baroda,India,BDQ,VABO,22.3362007141,73.2263031006,129,5.5,N,Asia/Calcutta,airport,OurAirports
+3002,Raja Bhoj International Airport,Bhopal,India,BHO,VABP,23.2875003815,77.3374023438,1711,5.5,N,Asia/Calcutta,airport,OurAirports
+3003,Bhavnagar Airport,Bhaunagar,India,BHU,VABV,21.752199173,72.1852035522,44,5.5,N,Asia/Calcutta,airport,OurAirports
+3004,Daman Airport,Daman,India,NMB,VADN,20.43440055847168,72.84320068359375,33,5.5,N,Asia/Calcutta,airport,OurAirports
+3005,Deesa Airport,Deesa,India,\N,VADS,24.267900466918945,72.20439910888672,485,5.5,N,Asia/Calcutta,airport,OurAirports
+3006,Guna Airport,Guna,India,\N,VAGN,24.654699325561523,77.34729766845703,1600,5.5,N,Asia/Calcutta,airport,OurAirports
+3007,Dabolim Airport,Goa,India,GOI,VAGO,15.3808002472,73.8313980103,150,5.5,N,Asia/Calcutta,airport,OurAirports
+3008,Devi Ahilyabai Holkar Airport,Indore,India,IDR,VAID,22.7217998505,75.8011016846,1850,5.5,N,Asia/Calcutta,airport,OurAirports
+3009,Jabalpur Airport,Jabalpur,India,JLR,VAJB,23.177799224853516,80.052001953125,1624,5.5,N,Asia/Calcutta,airport,OurAirports
+3010,Jamnagar Airport,Jamnagar,India,JGA,VAJM,22.465499877929688,70.01260375976562,69,5.5,N,Asia/Calcutta,airport,OurAirports
+3011,Kandla Airport,Kandla,India,IXY,VAKE,23.112699508699997,70.1003036499,96,5.5,N,Asia/Calcutta,airport,OurAirports
+3012,Khajuraho Airport,Khajuraho,India,HJR,VAKJ,24.817199707,79.91860198970001,728,5.5,N,Asia/Calcutta,airport,OurAirports
+3013,Kolhapur Airport,Kolhapur,India,KLH,VAKP,16.6646995544,74.2893981934,1996,5.5,N,Asia/Calcutta,airport,OurAirports
+3014,Keshod Airport,Keshod,India,IXK,VAKS,21.317100524902344,70.27040100097656,167,5.5,N,Asia/Calcutta,airport,OurAirports
+3015,Dr. Babasaheb Ambedkar International Airport,Nagpur,India,NAG,VANP,21.092199325561523,79.04720306396484,1033,5.5,N,Asia/Calcutta,airport,OurAirports
+3016,Gandhinagar Airport,Nasik Road,India,ISK,VANR,19.9636993408,73.8076019287,1959,5.5,N,Asia/Calcutta,airport,OurAirports
+3017,Pune Airport,Pune,India,PNQ,VAPO,18.58209991455078,73.9197006225586,1942,5.5,N,Asia/Calcutta,airport,OurAirports
+3018,Porbandar Airport,Porbandar,India,PBD,VAPR,21.6487007141,69.65720367429999,23,5.5,N,Asia/Calcutta,airport,OurAirports
+3019,Rajkot Airport,Rajkot,India,RAJ,VARK,22.3092002869,70.77950286869999,441,5.5,N,Asia/Calcutta,airport,OurAirports
+3020,Raipur Airport,Raipur,India,RPR,VARP,21.180400848399998,81.7388000488,1041,5.5,N,Asia/Calcutta,airport,OurAirports
+3021,Solapur Airport,Sholapur,India,SSE,VASL,17.6280002594,75.93479919430001,1584,5.5,N,Asia/Calcutta,airport,OurAirports
+3022,Surat Airport,Surat,India,STV,VASU,21.1140995026,72.7417984009,16,5.5,N,Asia/Calcutta,airport,OurAirports
+3023,Maharana Pratap Airport,Udaipur,India,UDR,VAUD,24.617700576799997,73.89610290530001,1684,5.5,N,Asia/Calcutta,airport,OurAirports
+3037,Along Airport,Along,India,\N,VEAN,28.17530059814453,94.802001953125,900,5.5,N,Asia/Calcutta,airport,OurAirports
+3038,Agartala Airport,Agartala,India,IXA,VEAT,23.8869991302,91.24040222170001,46,5.5,N,Asia/Calcutta,airport,OurAirports
+3039,Lengpui Airport,Aizwal,India,AJL,VELP,23.840599060099997,92.6196975708,1398,5.5,N,Asia/Calcutta,airport,OurAirports
+3040,Bagdogra Airport,Baghdogra,India,IXB,VEBD,26.68120002746582,88.32859802246094,412,5.5,N,Asia/Calcutta,airport,OurAirports
+3041,Bokaro Airport,Bokaro,India,\N,VEBK,23.64349937438965,86.1489028930664,715,5.5,N,Asia/Calcutta,airport,OurAirports
+3042,Biju Patnaik Airport,Bhubaneswar,India,BBI,VEBS,20.244400024399997,85.8178024292,138,5.5,N,Asia/Calcutta,airport,OurAirports
+3043,Netaji Subhash Chandra Bose International Airport,Kolkata,India,CCU,VECC,22.654699325561523,88.44670104980469,16,5.5,N,Asia/Calcutta,airport,OurAirports
+3044,Cooch Behar Airport,Cooch-behar,India,COH,VECO,26.330499649,89.4672012329,138,5.5,N,Asia/Calcutta,airport,OurAirports
+3045,Dhanbad Airport,Dhanbad,India,DBD,VEDB,23.833999633789062,86.42530059814453,847,5.5,N,Asia/Calcutta,airport,OurAirports
+3048,Gaya Airport,Gaya,India,GAY,VEGY,24.744300842285156,84.95120239257812,380,5.5,N,Asia/Calcutta,airport,OurAirports
+3049,Hirakud Airport,Hirakud,India,\N,VEHK,21.5802001953125,84.00569915771484,658,5.5,N,Asia/Calcutta,airport,OurAirports
+3050,Imphal Airport,Imphal,India,IMF,VEIM,24.7600002289,93.896697998,2540,5.5,N,Asia/Calcutta,airport,OurAirports
+3051,Jharsuguda Airport,Jharsuguda,India,\N,VEJH,21.91349983215332,84.05039978027344,751,5.5,N,Asia/Calcutta,airport,OurAirports
+3052,Jamshedpur Airport,Jamshedpur,India,IXW,VEJS,22.813199996900003,86.168800354,475,5.5,N,Asia/Calcutta,airport,OurAirports
+3053,Jorhat Airport,Jorhat,India,JRH,VEJT,26.7315006256,94.1754989624,311,5.5,N,Asia/Calcutta,airport,OurAirports
+3054,Kailashahar Airport,Kailashahar,India,IXH,VEKR,24.30820083618164,92.0072021484375,79,5.5,N,Asia/Calcutta,airport,OurAirports
+3055,Silchar Airport,Silchar,India,IXS,VEKU,24.9129009247,92.97869873050001,352,5.5,N,Asia/Calcutta,airport,OurAirports
+3056,North Lakhimpur Airport,Lilabari,India,IXI,VELR,27.295499801635742,94.09760284423828,330,5.5,N,Asia/Calcutta,airport,OurAirports
+3057,Dibrugarh Airport,Mohanbari,India,DIB,VEMN,27.4839000702,95.0168991089,362,5.5,N,Asia/Calcutta,airport,OurAirports
+3058,Muzaffarpur Airport,Mazuffarpur,India,\N,VEMZ,26.11910057067871,85.3136978149414,174,5.5,N,Asia/Calcutta,airport,OurAirports
+3059,Nawapara Airport,Nawapara,India,\N,VENP,20.8700008392334,82.51959991455078,1058,5.5,N,Asia/Calcutta,airport,OurAirports
+3061,Lok Nayak Jayaprakash Airport,Patina,India,PAT,VEPT,25.591299057,85.0879974365,170,5.5,N,Asia/Calcutta,airport,OurAirports
+3062,Purnea Airport,Purnea,India,\N,VEPU,25.759599685668945,87.41000366210938,129,5.5,N,Asia/Calcutta,airport,OurAirports
+3063,Birsa Munda Airport,Ranchi,India,IXR,VERC,23.314300537100003,85.3217010498,2148,5.5,N,Asia/Calcutta,airport,OurAirports
+3064,Rourkela Airport,Rourkela,India,RRK,VERK,22.25670051574707,84.8145980834961,659,5.5,N,Asia/Calcutta,airport,OurAirports
+3065,Utkela Airport,Utkela,India,\N,VEUK,20.097400665283203,83.18379974365234,680,5.5,N,Asia/Calcutta,airport,OurAirports
+3066,Vishakhapatnam Airport,Vishakhapatnam,India,VTZ,VEVZ,17.721200943,83.2245025635,15,5.5,N,Asia/Calcutta,airport,OurAirports
+3067,Zero Airport,Zero,India,\N,VEZO,27.588300704956055,93.8281021118164,5403,5.5,N,Asia/Calcutta,airport,OurAirports
+3079,Agra Airport,Agra,India,AGR,VIAG,27.155799865722656,77.96089935302734,551,5.5,N,Asia/Calcutta,airport,OurAirports
+3080,Allahabad Airport,Allahabad,India,IXD,VIAL,25.440099716186523,81.73390197753906,322,5.5,N,Asia/Calcutta,airport,OurAirports
+3081,Sri Guru Ram Dass Jee International Airport,Amritsar,India,ATQ,VIAR,31.7096004486,74.7973022461,756,5.5,N,Asia/Calcutta,airport,OurAirports
+3082,Nal Airport,Bikaner,India,\N,VIBK,28.070600509643555,73.20719909667969,750,5.5,N,Asia/Calcutta,airport,OurAirports
+3084,Lal Bahadur Shastri Airport,Varanasi,India,VNS,VIBN,25.4524002075,82.8592987061,266,5.5,N,Asia/Calcutta,airport,OurAirports
+3085,Kullu Manali Airport,Kulu,India,KUU,VIBR,31.876699447631836,77.15440368652344,3573,5.5,N,Asia/Calcutta,airport,OurAirports
+3087,Bhiwani Airport,Bhiwani,India,\N,VIBW,28.836999893188477,76.1791000366211,720,5.5,N,Asia/Calcutta,airport,OurAirports
+3089,Chandigarh Airport,Chandigarh,India,IXC,VICG,30.673500061035156,76.78849792480469,1012,5.5,N,Asia/Calcutta,airport,OurAirports
+3091,Safdarjung Airport,Delhi,India,\N,VIDD,28.58449935913086,77.20580291748047,705,5.5,N,Asia/Calcutta,airport,OurAirports
+3092,Dehradun Airport,Dehra Dun,India,DED,VIDN,30.189699173,78.18029785159999,1831,5.5,N,Asia/Calcutta,airport,OurAirports
+3093,Indira Gandhi International Airport,Delhi,India,DEL,VIDP,28.566499710083008,77.10310363769531,777,5.5,N,Asia/Calcutta,airport,OurAirports
+3094,Gwalior Airport,Gwalior,India,GWL,VIGR,26.29330062866211,78.22779846191406,617,5.5,N,Asia/Calcutta,airport,OurAirports
+3095,Hissar Airport,Hissar,India,\N,VIHR,29.179399490356445,75.75530242919922,700,5.5,N,Asia/Calcutta,airport,OurAirports
+3096,Jhansi Airport,Jhansi,India,\N,VIJN,25.491199493408203,78.55840301513672,801,5.5,N,Asia/Calcutta,airport,OurAirports
+3097,Jodhpur Airport,Jodhpur,India,JDH,VIJO,26.251100540161133,73.04889678955078,717,5.5,N,Asia/Calcutta,airport,OurAirports
+3098,Jaipur International Airport,Jaipur,India,JAI,VIJP,26.8241996765,75.8122024536,1263,5.5,N,Asia/Calcutta,airport,OurAirports
+3099,Jaisalmer Airport,Jaisalmer,India,JSA,VIJR,26.888700485229492,70.86499786376953,751,5.5,N,Asia/Calcutta,airport,OurAirports
+3100,Jammu Airport,Jammu,India,IXJ,VIJU,32.6890983582,74.8374023438,1029,5.5,N,Asia/Calcutta,airport,OurAirports
+3101,Kanpur Airport,Kanpur,India,KNU,VIKA,26.4414005279541,80.36489868164062,411,5.5,N,Asia/Calcutta,airport,OurAirports
+3102,Kota Airport,Kota,India,KTU,VIKO,25.160200119,75.84559631350001,896,5.5,N,Asia/Calcutta,airport,OurAirports
+3103,Ludhiana Airport,Ludhiaha,India,LUH,VILD,30.854700088500977,75.95259857177734,834,5.5,N,Asia/Calcutta,airport,OurAirports
+3104,Leh Kushok Bakula Rimpochee Airport,Leh,India,IXL,VILH,34.1358985901,77.5465011597,10682,5.5,N,Asia/Calcutta,airport,OurAirports
+3105,Chaudhary Charan Singh International Airport,Lucknow,India,LKO,VILK,26.7605991364,80.8892974854,410,5.5,N,Asia/Calcutta,airport,OurAirports
+3107,Patiala Airport,Patiala,India,\N,VIPL,30.314800262451172,76.364501953125,820,5.5,N,Asia/Calcutta,airport,OurAirports
+3108,Pantnagar Airport,Nainital,India,PGH,VIPT,29.03339958190918,79.47370147705078,769,5.5,N,Asia/Calcutta,airport,OurAirports
+3109,Fursatganj Airport,Raibarelli,India,\N,VIRB,26.24850082397461,81.38050079345703,360,5.5,N,Asia/Calcutta,airport,OurAirports
+3112,Sheikh ul Alam Airport,Srinagar,India,SXR,VISR,33.987098693847656,74.77420043945312,5429,5.5,N,Asia/Calcutta,airport,OurAirports
+3113,Satna Airport,Satna,India,TNI,VIST,24.562299728393555,80.85489654541016,1060,5.5,N,Asia/Calcutta,airport,OurAirports
+3130,Agatti Airport,Agatti Island,India,AGX,VOAT,10.823699951171875,72.1760025024414,14,5.5,N,Asia/Calcutta,airport,OurAirports
+3131,Kempegowda International Airport,Bangalore,India,BLR,VOBL,13.1979,77.706299,3000,5.5,N,Asia/Calcutta,airport,OurAirports
+3132,Bellary Airport,Bellary,India,BEP,VOBI,15.162799835205078,76.88279724121094,30,5.5,N,Asia/Calcutta,airport,OurAirports
+3134,Vijayawada Airport,Vijayawada,India,VGA,VOBZ,16.530399322509766,80.79679870605469,82,5.5,N,Asia/Calcutta,airport,OurAirports
+3135,Coimbatore International Airport,Coimbatore,India,CJB,VOCB,11.029999733,77.0434036255,1324,5.5,N,Asia/Calcutta,airport,OurAirports
+3136,Cochin International Airport,Kochi,India,COK,VOCI,10.1520004272,76.40190124510002,30,5.5,N,Asia/Calcutta,airport,OurAirports
+3137,Calicut International Airport,Calicut,India,CCJ,VOCL,11.1367998123,75.95529937740001,342,5.5,N,Asia/Calcutta,airport,OurAirports
+3138,Cuddapah Airport,Cuddapah,India,CDP,VOCP,14.510000228881836,78.77279663085938,430,5.5,N,Asia/Calcutta,airport,OurAirports
+3140,Dundigul Air Force Academy,Dundigul,India,\N,VODG,17.627199173,78.4033966064,2013,5.5,N,Asia/Calcutta,airport,OurAirports
+3141,Begumpet Airport,Hyderabad,India,BPM,VOHY,17.4531002045,78.4675979614,1742,5.5,N,Asia/Calcutta,airport,OurAirports
+3142,Madurai Airport,Madurai,India,IXM,VOMD,9.83450984955,78.09339904790001,459,5.5,N,Asia/Calcutta,airport,OurAirports
+3143,Mangalore International Airport,Mangalore,India,IXE,VOML,12.9612998962,74.8900985718,337,5.5,N,Asia/Calcutta,airport,OurAirports
+3144,Chennai International Airport,Madras,India,MAA,VOMM,12.990005493164062,80.16929626464844,52,5.5,N,Asia/Calcutta,airport,OurAirports
+3145,Nagarjuna Sagar Airport,Nagarjunsagar,India,\N,VONS,16.542699813842773,79.3187026977539,658,5.5,N,Asia/Calcutta,airport,OurAirports
+3146,Vir Savarkar International Airport,Port Blair,India,IXZ,VOPB,11.641200065612793,92.72969818115234,14,5.5,N,Asia/Calcutta,airport,OurAirports
+3147,Pondicherry Airport,Pendicherry,India,PNY,VOPC,11.968700408935547,79.81009674072266,118,5.5,N,Asia/Calcutta,airport,OurAirports
+3148,Rajahmundry Airport,Rajahmundry,India,RJA,VORY,17.1103992462,81.81819915770001,151,5.5,N,Asia/Calcutta,airport,OurAirports
+3149,Salem Airport,Salem,India,\N,VOSM,11.78330039978,78.06559753418,1008,5.5,N,Asia/Calcutta,airport,OurAirports
+3150,Tanjore Air Force Base,Tanjore,India,\N,VOTJ,10.722399711608887,79.10160064697266,253,5.5,N,Asia/Calcutta,airport,OurAirports
+3151,Tirupati Airport,Tirupeti,India,TIR,VOTP,13.632499694800002,79.543296814,350,5.5,N,Asia/Calcutta,airport,OurAirports
+3152,Tiruchirapally Civil Airport Airport,Tiruchirappalli,India,TRZ,VOTR,10.765399932861328,78.70970153808594,288,5.5,N,Asia/Calcutta,airport,OurAirports
+3153,Trivandrum International Airport,Trivandrum,India,TRV,VOTV,8.48211956024,76.9200973511,15,5.5,N,Asia/Calcutta,airport,OurAirports
+5711,Diu Airport,Diu,India,DIU,VA1P,20.71310043334961,70.92109680175781,31,5.5,N,Asia/Calcutta,airport,OurAirports
+6168,Hubli Airport,Hubli,India,HBX,VAHB,15.361700058,75.08489990230001,2171,5.5,N,Asia/Calcutta,airport,OurAirports
+6172,Shillong Airport,Shillong,India,SHL,VEBI,25.70359992980957,91.97869873046875,2910,5.5,N,Asia/Calcutta,airport,OurAirports
+6173,Lokpriya Gopinath Bordoloi International Airport,Guwahati,India,GAU,VEGT,26.10610008239746,91.58589935302734,162,5.5,N,Asia/Calcutta,airport,OurAirports
+6174,Dimapur Airport,Dimapur,India,DMU,VEMR,25.883899688699998,93.77110290530001,487,5.5,N,Asia/Calcutta,airport,OurAirports
+6175,Tezpur Airport,Tezpur,India,TEZ,VETZ,26.7091007232666,92.78469848632812,240,5.5,N,Asia/Calcutta,airport,OurAirports
+6741,Gorakhpur Airport,Gorakhpur,India,GOP,VEGK,26.739700317399997,83.4496994019,259,5.5,N,Asia/Calcutta,airport,OurAirports
+6760,Kangra Airport,Kangra,India,DHM,VIGG,32.16510009765625,76.26339721679688,2525,5.5,N,Asia/Calcutta,airport,OurAirports
+6761,Nanded Airport,Nanded,India,NDC,VAND,19.1833000183,77.31670379639999,1250,5.5,N,Asia/Calcutta,airport,OurAirports
+6762,Shimla Airport,Shimla,India,SLV,VISM,31.0818,77.068001,5072,5.5,N,Asia/Calcutta,airport,OurAirports
+7774,Mysore Airport,Mysore,India,MYQ,VOMY,12.30720043182373,76.64969635009766,2349,5.5,U,Asia/Calcutta,airport,OurAirports
+8660,Nagaur Airport,Nagaur,India,\N,VI73,27.20829963684082,73.7114028930664,950,5.5,U,Asia/Calcutta,airport,OurAirports
+10061,Pasighat Airport,Pasighat,India,IXT,VEPG,28.066099166870117,95.33560180664062,477,5.3,N,\N,airport,OurAirports
+10750,HAL Airport,Bangalore,India,\N,VOBG,12.9499998093,77.6681976318,2912,5.5,N,\N,airport,OurAirports
+11996,Ratnagiri Airport,,India,RTC,VARG,17.013599395751953,73.32779693603516,305,\N,\N,\N,airport,OurAirports
+11998,Kazi Nazrul Islam Airport,Durgapur,India,RDP,VEDG,23.6225,87.243,300,\N,\N,\N,airport,OurAirports
+12002,Sri Sathya Sai Airport,Puttaparthi,India,PUT,VOPN,14.1492996216,77.7910995483,1558,\N,\N,\N,airport,OurAirports
